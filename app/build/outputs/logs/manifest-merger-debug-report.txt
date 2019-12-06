@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/826eb0fef6933153ab673d92cf140eb1/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6a9bc136f9705d2c83869cd240ebbcc8/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/e984af2b89504d0574726e982eb0f034/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/bb181d4344dd8da97d3f0fbfc18409bf/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/096a606f551e20f6504e24839948bd30/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/ae3d54c918d8d54d2d0f5160765117b1/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/b2855e9946c8a1e57b788919b6a04dcb/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6e7d4e93f8b281f319be68efab12027c/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2b79aa903e4ac879ec355491f8912ac8/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/f1b8d089bb79acdad8dc78d073962ee4/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2519ad1060ea2d1e60e0cdfe1b2e3332/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/0e27f7dced28430092270f4e72629d9a/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/232af60873f1ded12e52dc70e904dbd4/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/694b2d322ce8d519cb561846d3633563/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/0e7d7e48c964913e85a567a18202cedd/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/5890093e4d07f1d554268faa20868f0d/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4ded6aac9f235b7f63fb2a875466f60e/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/adcefe2dcb1b1b1e288e85f8bf2c3b3e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/7d78e0bc8a34168124c4f462caa34acc/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/160a26b726391a3ffd5ae531c62bc5fe/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/b60c51a8f53740ca831bec11183feac5/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/ddc78b77484c8795f880d16712202522/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4383faa64f6b4499286fe7429edafd89/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/c97b98289689945a004d35679dc8b983/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/523be6cee88243a868ce8d0394d3fc53/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/1046f987d83c0245b5f52200a35179f3/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/44becc338fdaaeff6eb4ce17047365aa/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/5a697add972c9e045733e656c909df50/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/87fc947f1bffb4d6b93734a1df68400e/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/a4ac5791921596f1f4119e5c7d38db33/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2cca85b3e6641bd8ca6dd1eaa622bf27/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/e880cd8416a69668087f200d78f29d2e/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6a8bab7e022e01c1513dcf47b6325db9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/90f154ef8c93284fa6b9a90bf047750c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6af6655d1a5020ef1eb447a6369790f5/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:5:3-22:17
+MERGED from [com.google.android.material:material:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6a9bc136f9705d2c83869cd240ebbcc8/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6a9bc136f9705d2c83869cd240ebbcc8/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/bb181d4344dd8da97d3f0fbfc18409bf/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/bb181d4344dd8da97d3f0fbfc18409bf/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4383faa64f6b4499286fe7429edafd89/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4383faa64f6b4499286fe7429edafd89/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/c97b98289689945a004d35679dc8b983/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/c97b98289689945a004d35679dc8b983/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4383faa64f6b4499286fe7429edafd89/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.problem.solution.data.persistence.MainActivity
+ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:12:5-21:16
+	android:label
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:14:9-41
+	android:theme
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:15:9-52
+	android:name
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:13:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:16:7-20:23
+action#android.intent.action.MAIN
+ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:17:9-61
+	android:name
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:17:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml:19:19-66
+uses-sdk
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/826eb0fef6933153ab673d92cf140eb1/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/826eb0fef6933153ab673d92cf140eb1/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6a9bc136f9705d2c83869cd240ebbcc8/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6a9bc136f9705d2c83869cd240ebbcc8/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/e984af2b89504d0574726e982eb0f034/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/e984af2b89504d0574726e982eb0f034/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/bb181d4344dd8da97d3f0fbfc18409bf/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/bb181d4344dd8da97d3f0fbfc18409bf/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/096a606f551e20f6504e24839948bd30/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/096a606f551e20f6504e24839948bd30/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/ae3d54c918d8d54d2d0f5160765117b1/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/ae3d54c918d8d54d2d0f5160765117b1/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/b2855e9946c8a1e57b788919b6a04dcb/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/b2855e9946c8a1e57b788919b6a04dcb/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6e7d4e93f8b281f319be68efab12027c/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6e7d4e93f8b281f319be68efab12027c/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2b79aa903e4ac879ec355491f8912ac8/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2b79aa903e4ac879ec355491f8912ac8/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/f1b8d089bb79acdad8dc78d073962ee4/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/f1b8d089bb79acdad8dc78d073962ee4/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2519ad1060ea2d1e60e0cdfe1b2e3332/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2519ad1060ea2d1e60e0cdfe1b2e3332/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/0e27f7dced28430092270f4e72629d9a/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/0e27f7dced28430092270f4e72629d9a/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/232af60873f1ded12e52dc70e904dbd4/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/232af60873f1ded12e52dc70e904dbd4/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/694b2d322ce8d519cb561846d3633563/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/694b2d322ce8d519cb561846d3633563/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/0e7d7e48c964913e85a567a18202cedd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/0e7d7e48c964913e85a567a18202cedd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/5890093e4d07f1d554268faa20868f0d/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/5890093e4d07f1d554268faa20868f0d/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4ded6aac9f235b7f63fb2a875466f60e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4ded6aac9f235b7f63fb2a875466f60e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/adcefe2dcb1b1b1e288e85f8bf2c3b3e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/adcefe2dcb1b1b1e288e85f8bf2c3b3e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/7d78e0bc8a34168124c4f462caa34acc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/7d78e0bc8a34168124c4f462caa34acc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/160a26b726391a3ffd5ae531c62bc5fe/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/160a26b726391a3ffd5ae531c62bc5fe/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/b60c51a8f53740ca831bec11183feac5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/b60c51a8f53740ca831bec11183feac5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/ddc78b77484c8795f880d16712202522/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/ddc78b77484c8795f880d16712202522/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4383faa64f6b4499286fe7429edafd89/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/4383faa64f6b4499286fe7429edafd89/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/c97b98289689945a004d35679dc8b983/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/c97b98289689945a004d35679dc8b983/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/523be6cee88243a868ce8d0394d3fc53/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/523be6cee88243a868ce8d0394d3fc53/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/1046f987d83c0245b5f52200a35179f3/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/1046f987d83c0245b5f52200a35179f3/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/44becc338fdaaeff6eb4ce17047365aa/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/44becc338fdaaeff6eb4ce17047365aa/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/5a697add972c9e045733e656c909df50/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/5a697add972c9e045733e656c909df50/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/87fc947f1bffb4d6b93734a1df68400e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/87fc947f1bffb4d6b93734a1df68400e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/a4ac5791921596f1f4119e5c7d38db33/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/a4ac5791921596f1f4119e5c7d38db33/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2cca85b3e6641bd8ca6dd1eaa622bf27/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/2cca85b3e6641bd8ca6dd1eaa622bf27/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/e880cd8416a69668087f200d78f29d2e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/e880cd8416a69668087f200d78f29d2e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6a8bab7e022e01c1513dcf47b6325db9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6a8bab7e022e01c1513dcf47b6325db9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/90f154ef8c93284fa6b9a90bf047750c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/90f154ef8c93284fa6b9a90bf047750c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6af6655d1a5020ef1eb447a6369790f5/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /usr/local/google/home/redam/.gradle/caches/transforms-2/files-2.1/6af6655d1a5020ef1eb447a6369790f5/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/redam/StudioProjects/DataPersistence/app/src/main/AndroidManifest.xml

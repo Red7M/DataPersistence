@@ -1,0 +1,4 @@
+#Thu Dec 05 10:23:51 PST 2019
+base.0=/usr/local/google/home/redam/StudioProjects/DataPersistence/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
